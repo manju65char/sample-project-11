@@ -1,0 +1,4 @@
+# ignoring the all txt files 
+*.txt
+# ignoring the all css files, so that , .git or git tracker is not going to track these files .
+*.css
